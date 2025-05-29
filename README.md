@@ -1,5 +1,6 @@
 # Multi-Language-Invoice-Extractor
 # 🧾 Invoice Extractor using Gemini Flash
+Made with ❤️
 
 A smart Streamlit app to extract data from multilingual invoice images using Google’s Gemini 1.5 Flash model.
 
@@ -26,4 +27,4 @@ python-dotenv
 ```bash
 git clone https://github.com/yourusername/invoice-extractor.git
 cd invoice-extractor
-Made with ❤️
+
