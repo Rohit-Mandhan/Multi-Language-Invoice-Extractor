@@ -9,9 +9,21 @@ A smart Streamlit app to extract data from multilingual invoice images using Goo
 - Supports multilingual input
 - Clean, responsive UI
 
+🧠 Tech Stack
+Streamlit
+
+Google Generative AI (gemini-1.5-flash)
+
+Python
+
+PIL (Pillow)
+
+python-dotenv
+
 ## ⚙️ Setup
 
-### 1. Clone & Navigate
+*. **Clone the repo**
 ```bash
-git clone https://github.com/yourusername/invoice-gemini.git
-cd invoice-gemini
+git clone https://github.com/yourusername/invoice-extractor.git
+cd invoice-extractor
+Made with ❤️
